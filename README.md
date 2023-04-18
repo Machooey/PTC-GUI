@@ -9,5 +9,10 @@ PTC, or Photo to Color Palette, is a program which takes a photo as input and ge
 - While there are some provided images to use, I have yet to implement a way to use images from your computer as of 4/18/23
 - There is still a lot more I want to do and eventually turn it into an executable standalone.
 - The color palette generator algorithm can be greatly worked on as well, in order to speed it up as well as make it more accurate.
+- A lot of cleaning up needs to be done to the code to make it more readable and understandable
 ## My inspiration
 Ever since getting Spotify Premium a couple years back, I've been hooked onto music, racking up 76,000 total hours streamed just last year alone. With my great variety of music I listen to with different vibes, moods, and emotions, I like to create many many different playlists. Until now, I didn't have a great idea of what to put as the icon images of my playlists, but then I had the brilliant idea to extract the default playlist icon's colors and use it as the image icon. Thus was born the Photo-To-Color-Palette idea.
+## Instructions
+1. Download the code and import it into a Java Project
+2. Run to test that the code has been imported correctly
+3. To change out the image, change `filename` to be the String of the image file.
